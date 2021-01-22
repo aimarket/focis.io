@@ -1,6 +1,5 @@
 import React from 'react';
 import Dropdown from 'react-bootstrap/Dropdown'
-import NavDropdown from 'react-bootstrap/NavDropdown'
 import ButtonGroup from 'react-bootstrap/ButtonGroup'
 
 const NavigationBar = () => (
