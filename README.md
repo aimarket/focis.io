@@ -4,6 +4,7 @@ This will continue to be my main portfolio with additions coming in the future.
 
 [Dynamic Live Demo](https://priceless-kalam-d7a456.netlify.app/)
 
+<img src="https://github.com/aimarket/focis.io/blob/main/dynamic%20_demo.gif?raw=true" alt="slide0" title="Slide0" height="450"/>
 
 # Link to the static website repository
 
