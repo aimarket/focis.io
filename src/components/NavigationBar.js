@@ -15,20 +15,20 @@ const NavigationBar = () => (
         <Dropdown.Toggle id="dropdown-custom-1">Projects</Dropdown.Toggle>
 
             <Dropdown.Menu id='dropdownmenu'>
-                <Dropdown.Item id='project-item' href="/pages/pomotech">Pomotech</Dropdown.Item>
-                <Dropdown.Item id='project-item' href="/pages/dodecahedron">Dodecahedron</Dropdown.Item>
-                <Dropdown.Item id='project-item' href="/pages/airsoft_turret">Airsoft Turret</Dropdown.Item>
+                <Dropdown.Item id='project-item' href="/pomotech">Pomotech</Dropdown.Item>
+                <Dropdown.Item id='project-item' href="/dodecahedron">Dodecahedron</Dropdown.Item>
+                <Dropdown.Item id='project-item' href="/airsoft_turret">Airsoft Turret</Dropdown.Item>
             </Dropdown.Menu>
             
         </Dropdown>{' '}
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/pages/about">About</a>
+        <a class="nav-link" href="/about">About</a>
       </li>
     </ul>
     </div>
     <ul class="navbar-nav ml-md-auto">
-      <a type="button" class="btn btn-outline-success" href="/pages/donate">Donate</a>
+      <a type="button" class="btn btn-outline-success" href="/donate">Donate</a>
     </ul>
   </nav>
     );
