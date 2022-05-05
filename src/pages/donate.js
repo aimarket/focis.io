@@ -1,6 +1,6 @@
 import React from 'react';
 
-const donate = () => {
+const Donate = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const donate = () => {
     );
 }
 
-export default donate;
+export default Donate;
