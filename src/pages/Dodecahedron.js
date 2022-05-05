@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Donate = () => {
+const Dodecahedron = () => {
     return (
         <div>
-            h
+            
         </div>
     );
 }
 
-export default Donate;
+export default Dodecahedron;
