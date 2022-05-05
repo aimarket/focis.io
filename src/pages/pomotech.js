@@ -1,10 +1,10 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 
-const pomotech = () => (
+const Pomotech = () => (
     <Container>
         <h1>PomoTech</h1>
     </Container>
 )
 
-export default pomotech;
+export default Pomotech;

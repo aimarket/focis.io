@@ -1,6 +1,6 @@
 import React from 'react';
 
-const airsoft_turret = () => {
+const AirsoftTurret = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const airsoft_turret = () => {
     );
 }
 
-export default airsoft_turret;
+export default AirsoftTurret;
